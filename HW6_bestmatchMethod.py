@@ -3,9 +3,6 @@
 
 # <codecell>
 
-#NAME: Praneeth Buggaveeti
-#Student ID: 104474528
-
 # <codecell>
 
 %pylab inline

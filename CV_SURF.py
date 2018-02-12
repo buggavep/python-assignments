@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
 
-# <codecell>
-
-!wget http://ecee.colorado.edu/~dconnors/fig/Connors2.jpg
 
 # <codecell>
 

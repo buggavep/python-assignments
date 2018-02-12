@@ -3,9 +3,6 @@
 
 # <codecell>
 
-# Homework 2 Template - ELEC 4727/5727 Computer Vision 
-# Name:praneeth Buggaveeti
-#student Id:104474528
 
 # <codecell>
 

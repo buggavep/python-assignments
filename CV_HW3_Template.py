@@ -3,9 +3,6 @@
 
 # <rawcell>
 
-# #ELEC 4727/5727 - Computer Vision
-# 
-# #Name: praneeth Buggaveeti
 
 # <codecell>
 

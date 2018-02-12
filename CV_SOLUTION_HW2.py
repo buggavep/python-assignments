@@ -3,7 +3,6 @@
 
 # <codecell>
 
-# Homework 2 - ELEC 4727/5727 Computer Vision
 
 # <codecell>
 

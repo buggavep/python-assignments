@@ -3,8 +3,7 @@
 
 # <rawcell>
 
-# ELEC4727/5727 : HW 4 (Face Detection)
-# Name:Praneeth Buggaveeti
+#FaceDetection
 
 # <codecell>
 
